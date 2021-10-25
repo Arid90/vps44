@@ -1,0 +1,2 @@
+# vps44
+miners
